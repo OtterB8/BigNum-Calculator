@@ -1,0 +1,14 @@
+﻿  Main.cpp
+  Qfloat.cpp
+d:\hcmus\assembly\đồ án\1712791-1712288-1712026\1712791-1712288-1712026\qfloat.cpp(39): warning C4018: '<': signed/unsigned mismatch
+d:\hcmus\assembly\đồ án\1712791-1712288-1712026\1712791-1712288-1712026\qfloat.cpp(45): warning C4018: '<': signed/unsigned mismatch
+d:\hcmus\assembly\đồ án\1712791-1712288-1712026\1712791-1712288-1712026\qfloat.cpp(54): warning C4018: '<': signed/unsigned mismatch
+d:\hcmus\assembly\đồ án\1712791-1712288-1712026\1712791-1712288-1712026\qfloat.cpp(147): warning C4018: '<': signed/unsigned mismatch
+d:\hcmus\assembly\đồ án\1712791-1712288-1712026\1712791-1712288-1712026\qfloat.cpp(270): warning C4018: '<': signed/unsigned mismatch
+d:\hcmus\assembly\đồ án\1712791-1712288-1712026\1712791-1712288-1712026\qfloat.cpp(339): warning C4018: '<': signed/unsigned mismatch
+d:\hcmus\assembly\đồ án\1712791-1712288-1712026\1712791-1712288-1712026\qfloat.cpp(357): warning C4018: '<': signed/unsigned mismatch
+d:\hcmus\assembly\đồ án\1712791-1712288-1712026\1712791-1712288-1712026\qfloat.cpp(426): warning C4018: '<': signed/unsigned mismatch
+  QINT.cpp
+d:\hcmus\assembly\đồ án\1712791-1712288-1712026\1712791-1712288-1712026\qint.cpp(131): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  1712791-1712288-1712026.vcxproj -> D:\HCMUS\Assembly\Đồ án\1712791-1712288-1712026\Debug\1712791-1712288-1712026.exe
